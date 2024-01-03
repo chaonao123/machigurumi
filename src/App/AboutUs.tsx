@@ -24,7 +24,7 @@ const Content = () => {
 
 
         
-        <p><a href="https://forms.gle/5gzyhbpkHWRSTxX97" target='_blank' rel="noreferrer">お問い合わせフォーム</a></p>
+        <p><a href="https://forms.gle/5gzyhbpkHWRSTxX97" target='_blank' rel="noreferrer">お問い合わせフォームはこちら</a></p>
 
         {config.form_url?
           <>
