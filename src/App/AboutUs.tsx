@@ -20,12 +20,12 @@ const Content = () => {
 
         <p>Geolonia 泉大津まちぐるみ図書館マップはGeolonia PWAマップを利用して作成されました。泉大津まちぐるみ図書館マップに掲載をご希望される場合は、お問い合わせフォームからご連絡ください。</p>
         //　<p>プログラムはオープンソースで公開しているため、自由にカスタマイズしてご利用いただけます。</p>
-        /*
-        <h2> Geolonia PWAマップについて</h2>
-        <p><a href="https://blog.geolonia.com/2022/05/17/pwamap-beta.html" target='_blank' rel="noreferrer">https://blog.geolonia.com/2022/05/17/pwamap-beta.html</a></p>
+        
+        //<h2> Geolonia PWAマップについて</h2>
+        //<p><a href="https://blog.geolonia.com/2022/05/17/pwamap-beta.html" target='_blank' rel="noreferrer">https://blog.geolonia.com/2022/05/17/pwamap-beta.html</a></p>
 
-        <p>また、独自ドメインでの利用やデザインのカスタマイズや利用に必要な緯度・経度情報の提供も有償で別途承ります。ご希望の方は下記までお問い合わせください。</p>
-　　　　　　　　　　　　　　　　*/
+        //<p>また、独自ドメインでの利用やデザインのカスタマイズや利用に必要な緯度・経度情報の提供も有償で別途承ります。ご希望の方は下記までお問い合わせください。</p>
+　　　　　　　　　　　　　　　　
         <h2>お問い合わせフォーム</h2>
         <p><a href="https://geolonia.com/contact/" target='_blank' rel="noreferrer">https://geolonia.com/contact/</a></p>
         <p>※カスタマイズおよびアプリの作成・利用についてはサポート対象外となります。あらかじめご了承ください。</p>
