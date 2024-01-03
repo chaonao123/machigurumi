@@ -18,12 +18,12 @@ const Content = () => {
           <div className="logo">Geolonia PWAマップ</div>
         </div>
 
-        <p>Geolonia 泉大津まちぐるみ図書館マップはGeolonia PWAマップを利用して作成されました。</p>
+        <p>泉大津まちぐるみ図書館マップはGeolonia PWAマップを利用して作成されました。</p>
         <p>泉大津まちぐるみ図書館マップに掲載をご希望される場合は、お問い合わせフォームからご連絡ください。</p>
         
 
 
-        <h2>お問い合わせフォーム</h2>
+        
         <p><a href="https://forms.gle/5gzyhbpkHWRSTxX97" target='_blank' rel="noreferrer">お問い合わせフォーム</a></p>
 
         {config.form_url?
